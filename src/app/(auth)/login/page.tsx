@@ -26,7 +26,7 @@ const Page: FC = () => {
         <div className="w-full flex flex-col items-center max-w-md space-y-8">
           <div className="flex flex-col items-center gap-8">
             <h1 className="text-2xl font-bold">
-              SiChat2 by{" "}
+              SiChat2 by
               <span className="text-blue-500 font-extrabold">
                 Ohiduzzaman Siam
               </span>
